@@ -11,7 +11,7 @@
 
     <servlet-mapping>
         <servlet-name>RegisterServlet</servlet-name>
-        <url-pattern>/register</url-pattern>
+        <url-pattern>/registration-servlet-jdbc-example/eregister</url-pattern>
     </servlet-mapping>
 
 </web-app>
