@@ -49,7 +49,7 @@ import registerdao.RegisterDao;
 //	}
 //}
 
-@WebServlet("/register")
+@WebServlet("/eregister")
 public class RegisterServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
     private RegisterDao registerDao;
