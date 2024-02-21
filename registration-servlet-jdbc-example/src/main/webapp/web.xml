@@ -7,7 +7,7 @@
 
 
 <welcome-file-list>
-    <welcome-file>register_employee.jsp</welcome-file>
+    <welcome-file>employee_register.jsp</welcome-file>
 </welcome-file-list>
 
     <servlet>
