@@ -9,7 +9,7 @@
 <body>
     <div align="center">
         <h1>Registration Form</h1>
-        <form action="register" method="post">
+        <form action="eregister" method="post">
             <table style="width: 100%">
                 <tr>
                     <td>Name</td>
